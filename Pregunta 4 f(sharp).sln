@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Pregunta 4 f(sharp)", "Pregunta 4 f(sharp)\Pregunta 4 f(sharp).fsproj", "{9A258E0C-2682-439D-9722-8B79907ED538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A258E0C-2682-439D-9722-8B79907ED538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A258E0C-2682-439D-9722-8B79907ED538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A258E0C-2682-439D-9722-8B79907ED538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A258E0C-2682-439D-9722-8B79907ED538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {742EBB53-DAF7-42B0-A1E7-780C86B4E313}
+	EndGlobalSection
+EndGlobal
